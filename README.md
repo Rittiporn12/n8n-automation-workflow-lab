@@ -12,13 +12,6 @@
 <br />
 <br />
 
-<a href="https://github.com/Rittiporn12/n8n-automation-workflow-lab">
-  <img src="https://img.shields.io/badge/GITHUB-Repository-334155?style=for-the-badge&labelColor=020617&color=475569" alt="GitHub Repository" />
-</a>
-
-<br />
-<br />
-
 <p>
   <b>n8n Automation Workflow Lab</b>
 </p>
