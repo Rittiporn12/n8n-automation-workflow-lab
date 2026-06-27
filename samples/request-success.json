@@ -1,0 +1,7 @@
+{
+    "name": "Earth",
+    "email": "earth@example.com",
+    "subject": "Success Test",
+    "message": "This data should be saved and notified.",
+    "type": "general"
+}

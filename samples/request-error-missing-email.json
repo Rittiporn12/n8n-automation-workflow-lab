@@ -1,0 +1,7 @@
+{
+    "name": "Earth",
+    "email": "",
+    "subject": "Error Test",
+    "message": "This data should not be saved.",
+    "type": "general"
+}

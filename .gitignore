@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Mac zip metadata
+__MACOSX/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Editor settings
+.vscode/
+.idea/

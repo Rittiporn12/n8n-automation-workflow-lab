@@ -1,0 +1,7 @@
+{
+    "name": "Earth",
+    "email": "earthgmail.com",
+    "subject": "Invalid Email Test",
+    "message": "Testing invalid email format.",
+    "type": "general"
+}
